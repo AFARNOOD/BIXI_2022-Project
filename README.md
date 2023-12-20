@@ -44,15 +44,15 @@ The primary objective of this project is to understand the relationship between 
 
 Machine learning techniques will be employed to analyze and model the relationship between trip duration and climate factors. By training models on the acquired dataset, we aim to uncover patterns and correlations that may not be immediately apparent through traditional analysis methods.
 
-<h2> Expected Outcomes
+## 8. Expected Outcomes
 
 The project seeks to reveal valuable insights into user behavior and preferences concerning BIXI bike trips under varying climate conditions. The outcome may assist in optimizing the bike-sharing system's operations, promoting usage during favorable weather, and potentially influencing service enhancements.
 
-## 8. Dataset
+## 9. Dataset
 
 For this analysis, the dataset used includes all BIXI trips performed throughout the year 2022. This comprehensive dataset provides detailed specifications of each trip, allowing for a thorough examination of user behavior. In addition to BIXI data, climate data for Montreal in 2022 has been incorporated to enhance the analysis by considering temperature variations.
 
-### 8.1. Data Collection
+### 9.1. Data Collection
 
 To conduct this analysis, data has been acquired from both the BIXI website, covering the bike-sharing system specifics, and Montreal's climate data to capture the relevant weather conditions. This dual-source approach ensures a comprehensive understanding of how climate factors interact with BIXI bike trips.
 
@@ -64,7 +64,7 @@ Data Source: https://www.canada.ca/en/environment-climate-change.html
 
 Data Source: https://bixi.com/en/open-data/
 
-### 5.2. Features Description
+### 9.2. Features Description
 
 **1. Climate Data:**
 
@@ -164,7 +164,7 @@ Data Type: Integer (Timestamp in milliseconds)
 **- ENDTIMEMS:** The timestamp indicating the end time of the bike trip, measured in milliseconds since a reference point.
 Data Type: Integer (Timestamp in milliseconds)
 
-## 8.2. Tech Stack and concepts
+## 10. Tech Stack and concepts
 
 
 * Python
@@ -173,13 +173,13 @@ Data Type: Integer (Timestamp in milliseconds)
 * Machine Learning Pipeline
 * FastAPI
 
-## 9. Setup
+## 11. Setup
 
 Clone the project repo and open it.
 
 If you want to reproduce results by running notebooks or train.py, you need to download data, create a virtual environment and install the dependencies.
 
-### 9.1. Download Data
+### 11.1. Download Data
 
 For notebooks:
 
