@@ -88,23 +88,23 @@ Data Type: Float
 Data Type: Float
 <br> **- avg_relative_humidity:** The overall average relative humidity for the given date.
 Data Type: Float
-<br>**- avg_cloud_cover_4:** The average cloud cover at 4 different levels throughout the day.
+<br>**- avg_cloud_cover:** The average cloud cover at 4 different levels throughout the day.
 Data Type: Float
-<br> **- min_cloud_cover_4:** The minimum cloud cover at 4 different levels on the given date.
+<br> **- min_cloud_cover:** The minimum cloud cover at 4 different levels on the given date.
 Data Type: Float
-<br> **- max_cloud_cover_8:** The maximum cloud cover at 8 different levels on the given date.
+<br> **- max_cloud_cover:** The maximum cloud cover at 8 different levels on the given date.
 Data Type: Float
-<br> **- avg_hourly_cloud_cover_8:** The average cloud cover at 8 different levels calculated based on hourly observations throughout the day.
+<br> **- avg_hourly_cloud_cover:** The average cloud cover at 8 different levels calculated based on hourly observations throughout the day.
 Data Type: Float
-<br> **- avg_cloud_cover_8:** The overall average cloud cover at 8 different levels for the given date.
+<br> **- avg_cloud_cover:** The overall average cloud cover at 8 different levels for the given date.
 Data Type: Float
-<br> **- min_cloud_cover_8:** The minimum cloud cover at 8 different levels on the given date.
+<br> **- min_cloud_cover:** The minimum cloud cover at 8 different levels on the given date.
 Data Type: Float
-<br> **- max_cloud_cover_10:** The maximum cloud cover at 10 different levels on the given date.
+<br> **- max_cloud_cover:** The maximum cloud cover at 10 different levels on the given date.
 Data Type: Float
-<br> **- avg_hourly_cloud_cover_10:** The average cloud cover at 10 different levels calculated based on hourly observations throughout the day.
+<br> **- avg_hourly_cloud_cover:** The average cloud cover at 10 different levels calculated based on hourly observations throughout the day.
 Data Type: Float
-<br> **- avg_cloud_cover_10:** The overall average cloud cover at 10 different levels for the given date.
+<br> **- avg_cloud_cover:** The overall average cloud cover at 10 different levels for the given date.
 Data Type: Float
 <br> **- min_cloud_cover_10:** The minimum cloud cover at 10 different levels on the given date.
 Data Type: Float
