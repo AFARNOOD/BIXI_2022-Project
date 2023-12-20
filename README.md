@@ -1,6 +1,9 @@
 <h1>Exploring the Impact of Climate on BIXI Bike Sharing Trips in Montreal
 
-[picture]</font>
+
+
+![Alt text](URL)
+
 
 <h2> Introduction
 
