@@ -4,27 +4,27 @@
 ![Alt text](https://github.com/AFARNOOD/BIXI_2022-Project/blob/main/imgs/Picture1.jpg)
 
 
-## Introduction
+## 1.Introduction
 
 BIXI, Montreal's bike-sharing system, is a convenient and sustainable mode of transportation for many residents and visitors. This capstone project aims to analyze the patterns of BIXI bike trips and investigate how climate factors, especially temperature, influence users' decisions in utilizing this service.
 
-Objective
+## 2.Objective
 
 The primary objective of this project is to understand the relationship between trip duration and climate/weather factors, with a specific focus on temperature. By leveraging machine learning techniques, we aim to uncover insights that can contribute to improving the overall experience and efficiency of BIXI bike sharing.
 
-## Methodology
+## 3.Methodology
 
 Machine learning techniques will be employed to analyze and model the relationship between trip duration and climate factors. By training models on the acquired dataset, we aim to uncover patterns and correlations that may not be immediately apparent through traditional analysis methods.
 
-## Expected Outcomes
+## 4.Expected Outcomes
 
 The project seeks to reveal valuable insights into user behavior and preferences concerning BIXI bike trips under varying climate conditions. The outcome may assist in optimizing the bike-sharing system's operations, promoting usage during favorable weather, and potentially influencing service enhancements.
 
-## Dataset
+## 5.Dataset
 
 For this analysis, the dataset used includes all BIXI trips performed throughout the year 2022. This comprehensive dataset provides detailed specifications of each trip, allowing for a thorough examination of user behavior. In addition to BIXI data, climate data for Montreal in 2022 has been incorporated to enhance the analysis by considering temperature variations.
 
-### Data Collection
+### 5.1. Data Collection
 
 To conduct this analysis, data has been acquired from both the BIXI website, covering the bike-sharing system specifics, and Montreal's climate data to capture the relevant weather conditions. This dual-source approach ensures a comprehensive understanding of how climate factors interact with BIXI bike trips.
 
@@ -36,7 +36,7 @@ Data Source: https://www.canada.ca/en/environment-climate-change.html
 
 Data Source: https://bixi.com/en/open-data/
 
-### Features Description
+### 5.2. Features Description
 
 **1. Climate Data:**
 
