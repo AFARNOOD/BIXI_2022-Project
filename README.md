@@ -70,43 +70,43 @@ Data Source: https://bixi.com/en/open-data/
 
 **- date:** The date corresponding to the weather observations.
 Data Type: Date/Time
-<br>**- max_temperature:**  The highest recorded temperature on the given date.
+<br> **- max_temperature:**  The highest recorded temperature on the given date.
 Data Type: Float
-**- avg_hourly_temperature:** The average temperature calculated based on hourly observations throughout the day.
+<br> **- avg_hourly_temperature:** The average temperature calculated based on hourly observations throughout the day.
 Data Type: Float
-**- avg_temperature:** The overall average temperature for the given date.
+<br> **- avg_temperature:** The overall average temperature for the given date.
 Data Type: Float
-**- min_temperature:** The lowest recorded temperature on the given date.
+<br> **- min_temperature:** The lowest recorded temperature on the given date.
 Data Type: Float
-**- max_humidex:** The highest humidex value, which combines temperature and humidity to represent perceived temperature.
+<br> **- max_humidex:** The highest humidex value, which combines temperature and humidity to represent perceived temperature.
 Data Type: Float
-**- min_windchill:** The lowest wind chill factor, representing the perceived decrease in temperature due to wind.
+<br> **- min_windchill:** The lowest wind chill factor, representing the perceived decrease in temperature due to wind.
 Data Type: Float
-**- max_relative_humidity:** The highest recorded relative humidity on the given date.
+<br> **- max_relative_humidity:** The highest recorded relative humidity on the given date.
 Data Type: Float
-**- avg_hourly_relative_humidity:** The average relative humidity calculated based on hourly observations throughout the day.
+<br> **- avg_hourly_relative_humidity:** The average relative humidity calculated based on hourly observations throughout the day.
 Data Type: Float
-**- avg_relative_humidity:** The overall average relative humidity for the given date.
+<br> **- avg_relative_humidity:** The overall average relative humidity for the given date.
 Data Type: Float
-**- avg_cloud_cover_4:** The average cloud cover at 4 different levels throughout the day.
+<br>**- avg_cloud_cover_4:** The average cloud cover at 4 different levels throughout the day.
 Data Type: Float
-**- min_cloud_cover_4:** The minimum cloud cover at 4 different levels on the given date.
+<br> **- min_cloud_cover_4:** The minimum cloud cover at 4 different levels on the given date.
 Data Type: Float
-**- max_cloud_cover_8:** The maximum cloud cover at 8 different levels on the given date.
+<br> **- max_cloud_cover_8:** The maximum cloud cover at 8 different levels on the given date.
 Data Type: Float
-**- avg_hourly_cloud_cover_8:** The average cloud cover at 8 different levels calculated based on hourly observations throughout the day.
+<br> **- avg_hourly_cloud_cover_8:** The average cloud cover at 8 different levels calculated based on hourly observations throughout the day.
 Data Type: Float
-**- avg_cloud_cover_8:** The overall average cloud cover at 8 different levels for the given date.
+<br> **- avg_cloud_cover_8:** The overall average cloud cover at 8 different levels for the given date.
 Data Type: Float
-**- min_cloud_cover_8:** The minimum cloud cover at 8 different levels on the given date.
+<br> **- min_cloud_cover_8:** The minimum cloud cover at 8 different levels on the given date.
 Data Type: Float
-**- max_cloud_cover_10:** The maximum cloud cover at 10 different levels on the given date.
+<br> **- max_cloud_cover_10:** The maximum cloud cover at 10 different levels on the given date.
 Data Type: Float
-**- avg_hourly_cloud_cover_10:** The average cloud cover at 10 different levels calculated based on hourly observations throughout the day.
+<br> **- avg_hourly_cloud_cover_10:** The average cloud cover at 10 different levels calculated based on hourly observations throughout the day.
 Data Type: Float
-**- avg_cloud_cover_10:** The overall average cloud cover at 10 different levels for the given date.
+<br> **- avg_cloud_cover_10:** The overall average cloud cover at 10 different levels for the given date.
 Data Type: Float
-**- min_cloud_cover_10:** The minimum cloud cover at 10 different levels on the given date.
+<br> **- min_cloud_cover_10:** The minimum cloud cover at 10 different levels on the given date.
 Data Type: Float
 
 
@@ -114,23 +114,23 @@ Data Type: Float
 
 **- STARTSTATIONNAME:** The name of the station from which the bike trip originated.
 Data Type: String
-**- STARTSTATIONARRONDISSEMENT:** The borough or district (arrondissement) where the starting station is located.
+<br> **- STARTSTATIONARRONDISSEMENT:** The borough or district (arrondissement) where the starting station is located.
 Data Type: String
-**- STARTSTATIONLATITUDE:** The latitude coordinates of the starting station's location.
+<br> **- STARTSTATIONLATITUDE:** The latitude coordinates of the starting station's location.
 Data Type: Float
-**- STARTSTATIONLONGITUDE:** The longitude coordinates of the starting station's location.
+<br> **- STARTSTATIONLONGITUDE:** The longitude coordinates of the starting station's location.
 Data Type: Float
-**- ENDSTATIONNAME:** The name of the station where the bike trip concluded.
+<br> **- ENDSTATIONNAME:** The name of the station where the bike trip concluded.
 Data Type: String
-**- ENDSTATIONARRONDISSEMENT:** The borough or district (arrondissement) where the ending station is located.
+<br> **- ENDSTATIONARRONDISSEMENT:** The borough or district (arrondissement) where the ending station is located.
 Data Type: String
-**- ENDSTATIONLATITUDE:** The latitude coordinates of the ending station's location.
+<br> **- ENDSTATIONLATITUDE:** The latitude coordinates of the ending station's location.
 Data Type: Float
-**- ENDSTATIONLONGITUDE:** The longitude coordinates of the ending station's location.
+<br> **- ENDSTATIONLONGITUDE:** The longitude coordinates of the ending station's location.
 Data Type: Float
-**- STARTTIMEMS:** The timestamp indicating the start time of the bike trip, measured in milliseconds since a reference point.
+<be> **- STARTTIMEMS:** The timestamp indicating the start time of the bike trip, measured in milliseconds since a reference point.
 Data Type: Integer (Timestamp in milliseconds)
-**- ENDTIMEMS:** The timestamp indicating the end time of the bike trip, measured in milliseconds since a reference point.
+<br> **- ENDTIMEMS:** The timestamp indicating the end time of the bike trip, measured in milliseconds since a reference point.
 Data Type: Integer (Timestamp in milliseconds)
 
 ## 10. Tech Stack and concepts
