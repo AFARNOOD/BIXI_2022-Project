@@ -70,7 +70,7 @@ Data Source: https://bixi.com/en/open-data/
 
 **- date:** The date corresponding to the weather observations.
 Data Type: Date/Time
-**- max_temperature:**  The highest recorded temperature on the given date.
+<br>**- max_temperature:**  The highest recorded temperature on the given date.
 Data Type: Float
 **- avg_hourly_temperature:** The average temperature calculated based on hourly observations throughout the day.
 Data Type: Float
