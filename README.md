@@ -4,23 +4,23 @@
 ![Alt text](https://github.com/AFARNOOD/BIXI_2022-Project/blob/main/imgs/Picture1.jpg)
 
 
-## 1.Introduction
+## 1. Introduction
 
 BIXI, Montreal's bike-sharing system, is a convenient and sustainable mode of transportation for many residents and visitors. This capstone project aims to analyze the patterns of BIXI bike trips and investigate how climate factors, especially temperature, influence users' decisions in utilizing this service.
 
-## 2.Objective
+## 2. Objective
 
 The primary objective of this project is to understand the relationship between trip duration and climate/weather factors, with a specific focus on temperature. By leveraging machine learning techniques, we aim to uncover insights that can contribute to improving the overall experience and efficiency of BIXI bike sharing.
 
-## 3.Methodology
+## 3. Methodology
 
 Machine learning techniques will be employed to analyze and model the relationship between trip duration and climate factors. By training models on the acquired dataset, we aim to uncover patterns and correlations that may not be immediately apparent through traditional analysis methods.
 
-## 4.Expected Outcomes
+## 4. Expected Outcomes
 
 The project seeks to reveal valuable insights into user behavior and preferences concerning BIXI bike trips under varying climate conditions. The outcome may assist in optimizing the bike-sharing system's operations, promoting usage during favorable weather, and potentially influencing service enhancements.
 
-## 5.Dataset
+## 5. Dataset
 
 For this analysis, the dataset used includes all BIXI trips performed throughout the year 2022. This comprehensive dataset provides detailed specifications of each trip, allowing for a thorough examination of user behavior. In addition to BIXI data, climate data for Montreal in 2022 has been incorporated to enhance the analysis by considering temperature variations.
 
@@ -49,11 +49,11 @@ Data Type: Float
 =======
 BIXI, Montreal's bike-sharing system, is a convenient and sustainable mode of transportation for many residents and visitors. This capstone project aims to analyze the patterns of BIXI bike trips and investigate how climate factors, especially temperature, influence users' decisions in utilizing this service.
 
-## Objective
+## 6. Objective
 
 The primary objective of this project is to understand the relationship between trip duration and climate/weather factors, with a specific focus on temperature. By leveraging machine learning techniques, we aim to uncover insights that can contribute to improving the overall experience and efficiency of BIXI bike sharing.
 
-## Methodology
+## 7. Methodology
 
 Machine learning techniques will be employed to analyze and model the relationship between trip duration and climate factors. By training models on the acquired dataset, we aim to uncover patterns and correlations that may not be immediately apparent through traditional analysis methods.
 
@@ -61,11 +61,11 @@ Machine learning techniques will be employed to analyze and model the relationsh
 
 The project seeks to reveal valuable insights into user behavior and preferences concerning BIXI bike trips under varying climate conditions. The outcome may assist in optimizing the bike-sharing system's operations, promoting usage during favorable weather, and potentially influencing service enhancements.
 
-## Dataset
+## 8. Dataset
 
 For this analysis, the dataset used includes all BIXI trips performed throughout the year 2022. This comprehensive dataset provides detailed specifications of each trip, allowing for a thorough examination of user behavior. In addition to BIXI data, climate data for Montreal in 2022 has been incorporated to enhance the analysis by considering temperature variations.
 
-### Data Collection
+### 8.1. Data Collection
 
 To conduct this analysis, data has been acquired from both the BIXI website, covering the bike-sharing system specifics, and Montreal's climate data to capture the relevant weather conditions. This dual-source approach ensures a comprehensive understanding of how climate factors interact with BIXI bike trips.
 
@@ -177,7 +177,7 @@ Data Type: Integer (Timestamp in milliseconds)
 **- ENDTIMEMS:** The timestamp indicating the end time of the bike trip, measured in milliseconds since a reference point.
 Data Type: Integer (Timestamp in milliseconds)
 
-## Tech Stack and concepts
+## 8.2. Tech Stack and concepts
 
 
 * Python
@@ -186,13 +186,13 @@ Data Type: Integer (Timestamp in milliseconds)
 * Machine Learning Pipeline
 * FastAPI
 
-## Setup
+## 9. Setup
 
 Clone the project repo and open it.
 
 If you want to reproduce results by running notebooks or train.py, you need to download data, create a virtual environment and install the dependencies.
 
-### Download Data
+### 9.1. Download Data
 
 For notebooks:
 
