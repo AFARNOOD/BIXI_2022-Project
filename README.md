@@ -110,7 +110,7 @@ Data Type: Float
 Data Type: Float
 
 
-**2. BIXI Data Source**
+**2. BIXI Data:**
 
 **- STARTSTATIONNAME:** The name of the station from which the bike trip originated.
 Data Type: String
