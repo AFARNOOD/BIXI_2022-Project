@@ -36,19 +36,6 @@ Data Source: https://www.canada.ca/en/environment-climate-change.html
 
 Data Source: https://bixi.com/en/open-data/
 
-### 5.2. Features Description
-
-**1. Climate Data:**
-
-- date: The date corresponding to the weather observations.
-Data Type: Date/Time
-
-- max_temperature:  The highest recorded temperature on the given date.
-Data Type: Float
-
-=======
-BIXI, Montreal's bike-sharing system, is a convenient and sustainable mode of transportation for many residents and visitors. This capstone project aims to analyze the patterns of BIXI bike trips and investigate how climate factors, especially temperature, influence users' decisions in utilizing this service.
-
 ## 6. Objective
 
 The primary objective of this project is to understand the relationship between trip duration and climate/weather factors, with a specific focus on temperature. By leveraging machine learning techniques, we aim to uncover insights that can contribute to improving the overall experience and efficiency of BIXI bike sharing.
@@ -77,7 +64,7 @@ Data Source: https://www.canada.ca/en/environment-climate-change.html
 
 Data Source: https://bixi.com/en/open-data/
 
-<h3> Features Description
+### 5.2. Features Description
 
 **1. Climate Data:**
 
