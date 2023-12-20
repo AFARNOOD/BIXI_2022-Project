@@ -60,7 +60,7 @@ To conduct this analysis, data has been acquired from both the BIXI website, cov
 
 Data Source: https://www.canada.ca/en/environment-climate-change.html
 
-**2. BIXI Data source:** Bixi bike share open data for each month/year of their season from 2014 to 2023. I chose the year 2022 data set.
+**2. BIXI Data:** Bixi bike share open data for each month/year of their season from 2014 to 2023. I chose the year 2022 data set.
 
 Data Source: https://bixi.com/en/open-data/
 
