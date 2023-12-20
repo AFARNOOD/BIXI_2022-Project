@@ -1,7 +1,13 @@
 <h1>Exploring the Impact of Climate on BIXI Bike Sharing Trips in Montreal
 
+<<<<<<< Updated upstream
+=======
+[picture]</font>
+>>>>>>> Stashed changes
 
+<h2> Introduction
 
+<<<<<<< Updated upstream
 ![Alt text](URL)
 
 
@@ -47,6 +53,48 @@ Data Type: Date/Time
 - max_temperature:  The highest recorded temperature on the given date.
 Data Type: Float
 
+=======
+BIXI, Montreal's bike-sharing system, is a convenient and sustainable mode of transportation for many residents and visitors. This capstone project aims to analyze the patterns of BIXI bike trips and investigate how climate factors, especially temperature, influence users' decisions in utilizing this service.
+
+<h2> Objective
+
+The primary objective of this project is to understand the relationship between trip duration and climate/weather factors, with a specific focus on temperature. By leveraging machine learning techniques, we aim to uncover insights that can contribute to improving the overall experience and efficiency of BIXI bike sharing.
+
+<h2> Methodology
+
+Machine learning techniques will be employed to analyze and model the relationship between trip duration and climate factors. By training models on the acquired dataset, we aim to uncover patterns and correlations that may not be immediately apparent through traditional analysis methods.
+
+<h2> Expected Outcomes
+
+The project seeks to reveal valuable insights into user behavior and preferences concerning BIXI bike trips under varying climate conditions. The outcome may assist in optimizing the bike-sharing system's operations, promoting usage during favorable weather, and potentially influencing service enhancements.
+
+<h2> Dataset
+
+For this analysis, the dataset used includes all BIXI trips performed throughout the year 2022. This comprehensive dataset provides detailed specifications of each trip, allowing for a thorough examination of user behavior. In addition to BIXI data, climate data for Montreal in 2022 has been incorporated to enhance the analysis by considering temperature variations.
+
+<h3> Data Collection
+
+To conduct this analysis, data has been acquired from both the BIXI website, covering the bike-sharing system specifics, and Montreal's climate data to capture the relevant weather conditions. This dual-source approach ensures a comprehensive understanding of how climate factors interact with BIXI bike trips.
+
+**1. Climate Data:** weather_data --Daily and hourly weather observations for Montreal - Trudeau Airport (CYUL) in weather_data from Environment and Climate Change Canada (ECCC). I chose the year 2022 data set.
+
+Data Source: https://www.canada.ca/en/environment-climate-change.html
+
+**2. BIXI Data source:** Bixi bike share open data for each month/year of their season from 2014 to 2023. I chose the year 2022 data set.
+
+Data Source: https://bixi.com/en/open-data/
+
+<h3> Features Description
+
+**1. Climate Data:**
+
+- date: The date corresponding to the weather observations.
+Data Type: Date/Time
+
+- max_temperature:  The highest recorded temperature on the given date.
+Data Type: Float
+
+>>>>>>> Stashed changes
 - avg_hourly_temperature: The average temperature calculated based on hourly observations throughout the day.
 Data Type: Float
 
