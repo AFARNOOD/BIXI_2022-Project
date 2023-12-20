@@ -1,5 +1,8 @@
 <h1>BIXI Project
 
+![Alt text](https://github.com/AFARNOOD/BIXI_2022-Project/blob/main/Images/output_74_0.png)
+
+
 <font color=green>[picture]</font>
 
 <h2>Table of Contents
