@@ -1,9 +1,8 @@
 <h1>Exploring the Impact of Climate on BIXI Bike Sharing Trips in Montreal
 
-<<<<<<< Updated upstream
-=======
-[picture]</font>
->>>>>>> Stashed changes
+
+![Alt text]((https://github.com/AFARNOOD/BIXI_2022-Project/blob/main/imgs/Picture1.jpg))
+
 
 <h2> Introduction
 
