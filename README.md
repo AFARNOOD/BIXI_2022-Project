@@ -146,7 +146,7 @@ Data Type: Integer (Timestamp in milliseconds)
 
 Clone the project repo and open it.
 
-If you want to reproduce results by running notebooks, you need to download data.
+If you want to reproduce results by running [notebooks](https://github.com/AFARNOOD/BIXI_2022-Project/tree/main/notebooks), you need to download data.
 
 ### 11.1. Download Data
 
