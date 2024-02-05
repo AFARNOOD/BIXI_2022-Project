@@ -24,7 +24,7 @@ BIXI, Montreal's bike-sharing system, is a convenient and sustainable mode of tr
 
 The primary objective of this project is to understand the relationship between trip duration and climate/weather factors, with a specific focus on temperature. By leveraging machine learning techniques, we aim to uncover insights that can contribute to improving the overall experience and efficiency of BIXI bike sharing.
 
-## 3. Methodology
+## 3. Methodology <a name="module3"></a>
 
 Machine learning techniques will be employed to analyze and model the relationship between trip duration and climate factors. By training models on the acquired dataset, we aim to uncover patterns and correlations that may not be immediately apparent through traditional analysis methods.
 
