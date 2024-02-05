@@ -16,11 +16,11 @@
 <br> - [Module 10: Kubernetes and TensorFlow Serving](#module10)
 
 
-## 1. Introduction
+## 1. Introduction <a name="module1"></a>
 
 BIXI, Montreal's bike-sharing system, is a convenient and sustainable mode of transportation for many residents and visitors. This capstone project aims to analyze the patterns of BIXI bike trips and investigate how climate factors, especially temperature, influence users' decisions in utilizing this service.
 
-## 2. Objective
+## 2. Objective <a name="module2"></a>
 
 The primary objective of this project is to understand the relationship between trip duration and climate/weather factors, with a specific focus on temperature. By leveraging machine learning techniques, we aim to uncover insights that can contribute to improving the overall experience and efficiency of BIXI bike sharing.
 
