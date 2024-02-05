@@ -3,6 +3,10 @@
 
 ![Alt text](https://github.com/AFARNOOD/BIXI_2022-Project/blob/main/imgs/Picture1.jpg)
 
+## LIST
+
+
+
 
 ## 1. Introduction
 
