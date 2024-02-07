@@ -10,9 +10,9 @@
 <br> - [3. Methodology](#module3)
 <br> - [4. Expected Outcomes](#module4)
 <br> - [5. Dataset](#module5)
-<br> - [Module 6: Decision Trees and Ensemble Learning](#module6)
-<br> - [Module 8: Neural Networks and Deep Learning](#module8)
-<br> - [Module 9: Serverless Deep Learning](#module9)
+<br> - [5.1. Data Collection](#module6)
+<br> - [6. Objective](#module8)
+<br> - [7. Methodology](#module9)
 <br> - [Module 10: Kubernetes and TensorFlow Serving](#module10)
 
 
