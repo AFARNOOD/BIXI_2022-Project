@@ -15,10 +15,11 @@
 <br> - [7. Methodology](#module7)
 <br> - [8. Expected Outcomes](#module8)
 <br> - [9. Dataset](#module9)
+<br> - [9.1. Data Collection](#module9.1)
 <br> - [9.2. Features Description](#module9.2)
-<br> - [9. Dataset](#module9)
-<br> - [9. Dataset](#module9)
-<br> - [9. Dataset](#module9)
+<br> - [10. Tech Stack and concepts](#module10)
+<br> - [11. Setup](#module11)
+<br> - [11.1. Download Data](#module11.1)
 
 
 ## 1. Introduction <a name="module1"></a>
