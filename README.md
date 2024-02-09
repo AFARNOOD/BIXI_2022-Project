@@ -62,7 +62,7 @@ The primary objective of this project is to understand the relationship between 
 
 Machine learning techniques will be employed to analyze and model the relationship between trip duration and climate factors. By training models on the acquired dataset, we aim to uncover patterns and correlations that may not be immediately apparent through traditional analysis methods.
 
-## 8. Expected Outcomes <a name="module8></a>
+## 8. Expected Outcomes <a name="module8"></a>
 
 The project seeks to reveal valuable insights into user behavior and preferences concerning BIXI bike trips under varying climate conditions. The outcome may assist in optimizing the bike-sharing system's operations, promoting usage during favorable weather, and potentially influencing service enhancements.
 
