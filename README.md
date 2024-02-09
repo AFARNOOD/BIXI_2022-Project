@@ -5,10 +5,10 @@
 
 ## LIST
 
-<br> - [1. Introduction](#module1)
-<br> - [2. Objective](#module2)
-<br> - [3. Methodology](#module3)
-<br> - [4. Expected Outcomes](#module4)
+- [1. Introduction](#module1)
+- [2. Objective](#module2)
+- [3. Methodology](#module3)
+- [4. Expected Outcomes](#module4)
 - [5. Dataset](#module5)
    - [5.1. Data Collection](#module5.1)
 <br> - [6. Objective](#module6)
