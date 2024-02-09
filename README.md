@@ -10,7 +10,7 @@
 <br> - [3. Methodology](#module3)
 <br> - [4. Expected Outcomes](#module4)
 <br> - [5. Dataset](#module5)
-   <br>    - [5.1. Data Collection](#module5.1)
+<br>    - [5.1. Data Collection](#module5.1)
 <br> - [6. Objective](#module6)
 <br> - [7. Methodology](#module7)
 <br> - [8. Expected Outcomes](#module8)
